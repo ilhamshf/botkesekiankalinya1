@@ -4,7 +4,8 @@
   "description": "Discord Bot Template, only for Perkumpulan Orang Santai.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "node .": "node run index.js"
   },
   "dependencies": {
     "@discordjs/opus": "^0.3.3",
@@ -37,7 +38,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KatowProject/Kato-Bot.git"
+    "url": "git+https://github.com/ilhams17/botkesekiankalinya1"
   },
   "keywords": [
     "bot",
